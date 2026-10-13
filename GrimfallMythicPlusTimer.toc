@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Grimfall MythicPlus Timer
+## Notes: Custom Mythic+ timer and progress UI for Grimfall
+## Author: Frankyheal
+## Version: 1.0
+## SavedVariables: GrimfallMythicPlusTimerDB
+
+Core.lua
